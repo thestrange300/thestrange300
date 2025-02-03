@@ -1,10 +1,18 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thestrange300&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thestrange300&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thestrange300&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
-
+<div>
+  <a href="https://github.com/thestrange300/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thestrange300" />
+</a>
+<a href="https://github.com/thestrange300/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thestrange300&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
+  
 <div>
   <a href="https://github.com/thestrange300">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thestrange300&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
